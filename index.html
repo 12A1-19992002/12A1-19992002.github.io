@@ -71,8 +71,8 @@ sitemap:
 
 						<!-- Posts -->
 							<section class="posts">
-				{% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
+				{% for post in site.posts limit:5 %}
+                {% assign mod5 = forloop.index | modulo: 5 %}
   								<article>
   									<header>
   										<span class="date">{{ post.date | date_to_string }}</span>
@@ -84,7 +84,7 @@ sitemap:
   										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
   									</ul>
   								</article>
-				{% if mod3 == 0 %}
+				{% if mod5 == 0 %}
 							<article>
 								<header>
 									<h2>Sponsored<a target="_blank" href="https://www.facebook.com/balladcafe"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com%2Fballadcafe" alt=""/></a></h2>
