@@ -8,7 +8,7 @@ cover:
 pages: 
  - page-number: 1
    layout: thirds
-   top: <h2>Nội dung dự thảo (Bản Draf) chương trình họp mặt. ( © Mr Trim Luu )</h2>
+   top: <h2>Nội dung dự thảo (Bản Draft) chương trình họp mặt. ( © Mr Trim Luu )</h2>
    background: /uploads/stories/000.jpg
    cta:
       link: 
