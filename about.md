@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TuyDuyenHoi - About
-description: Tuy Duyen Hoi
+title: 12A1 Sào Nam 1999-2000 - About
+description: 12A1 Sào Nam 1999-2000
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02

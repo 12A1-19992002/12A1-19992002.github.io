@@ -2,7 +2,7 @@
 layout: post
 title: Cung Đạo Nhật Bản - Rei-Nghi lễ - Phần 4
 date: 2020-07-06
-excerpt: TuyDuyenHoi
+excerpt: a1saonam9902
 image: /uploads/kyudo/1d441e5d-5e16-4c9e-9a98-f20c5f8c808e.jpg
 image_small: /uploads/kyudo/1d441e5d-5e16-4c9e-9a98-f20c5f8c808e_small.jpg
 published: true

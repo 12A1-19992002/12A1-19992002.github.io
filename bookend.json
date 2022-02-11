@@ -10,7 +10,7 @@
     "components": [
       {
         "type": "heading",
-        "text": "More Stories by TuyDuyenHoi"
+        "text": "More Stories by a1saonam9902"
       },
       {% for story in site.stories %}
       {
@@ -44,8 +44,8 @@
         "type": "cta-link",
         "links": [
           {
-            "text": "TuyDuyenHoi",
-            "url": "http://tuyduyenhoi.github.io"
+            "text": "a1saonam9902",
+            "url": "http://a1saonam9902.github.io"
           }
         ]
       }

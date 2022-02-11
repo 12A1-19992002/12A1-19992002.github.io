@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TuyDuyenHoi - Góc âm nhạc
-description: Tuy Duyen Hoi
+title: 12A1 Sào Nam 1999-2000 - Góc âm nhạc
+description: 12A1 Sào Nam 1999-2000
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
