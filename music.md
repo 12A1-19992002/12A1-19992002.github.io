@@ -10,6 +10,6 @@ sitemap:
 ## Góc âm nhạc
 
 <div>
-    {% include youtubePlayerList.html id="PLx75938l7DG_QHkGcHKlG-WFZ1elUpXPr" %}
+    {% include youtubePlayerList.html id="PLx75938l7DG9IuhY1HEUf2MviA-4ajtRY" %}
 </div>
 <blockquote>Bầu sô tại <a target="_blank" href="https://www.facebook.com/groups/167164663372722">A1 Sào Nam 99-02</a>!</blockquote>
