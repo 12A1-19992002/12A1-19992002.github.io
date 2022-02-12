@@ -3,9 +3,9 @@ layout: post
 url: 
 title: Tôi, Bạn và Mái trường xưa! 
 date: 2022-02-01
-excerpt: Tuấn Nấm
+excerpt: Học trò tinh nghịch
 image: /uploads/sliders/035_1.jpg
-image_small: /uploads/sliders/035_1.jpg
+image_small: /uploads/sliders/035_1_small.jpg
 published: true
 tags: kỷ yếu 
 sitemap:
@@ -39,11 +39,8 @@ Có thể trên đường đời mỗi người sẽ trải qua nhiều lớp h�
 <blockquote>Tôi, Bạn và Mái trường xưa!</blockquote>
 
 Tôi đứng lặng im giữa dòng đời buồn tẻ
-
 Bạn tôi cười ngạo nghễ lệ tuôn rơi
-
 Hai mảnh đời như hai dòng thước kẻ
-
 Sao xót xa không nói được thành lời
 
 Giữa nhịp sống hối hả, năng động, có lúc ta quên đi ý nghĩa của những giá trị giản đơn, thường nhật, cho đến khi sắp mất đi rồi, bất giác ta với tay níu giữ mà tưởng chừng như không còn kịp nữa… Giây phút này đây, tôi chợt nhận ra tình bạn đáng quý biết dường nào. Phải, nếu như không có các bạn có lẽ đã khác đi nhiều rồi: ai sẽ cùng tôi trải qua những khó khăn trong học tập, ai vịn nhẹ vai tôi bảo “cố gắng lên”, ai ngồi kể tôi nghe những câu chuyện cười đôi lúc chẳng mấy duyên rồi cùng tôi cười như nắc nẻ, ai bật khóc cùng tôi khi nhắc đến một ngày nào đó “sáng đi học tao với mày không gặp nhau”..? Những giây phút bên các bạn thật bình yên! Nhưng… thời gian thì không bao giờ ngừng lại…Thế nên hãy trân trọng từng giây phút bên nhau bởi lẽ không ai có thể lấy lại thời gian đã mất dù chỉ một giây. Dẫu có nuối tiếc nhưng hãy luôn quý trọng và thầm cảm ơn rằng trong những ngày tháng qua, sáng thức giấc, ta được đến lớp, đuợc học tập, được vui đùa bên các bạn, được gắn bó, yêu thương để thấy ấm áp dâng tràn; hãy trân trọng từng nụ cười, từng giọt nước mắt, cả những giận hờn, trách móc, đua ganh… Dù những gì hôm qua đã trở thành quá khứ, xin hãy lưu giữ lại những khoảnh khắc đáng yêu nhất, hồn nhiên nhất của tuổi học trò, làm hành trang vững tâm bước tiếp vào tương lai…
