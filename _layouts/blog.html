@@ -33,16 +33,16 @@
 
           <article class="post featured">
             <header class="major">
-              <h2><a href="#">Bước ra khỏi 'vùng an toàn', bạn thử chưa?</a></h2>
-              <p>Đôi khi bạn liều mình vì công việc, tìm kiếm những cơ hội nhưng lại quên mất bạn cũng cần dành thời gian cho bản thân. Và công việc chỉ là một phần của cuộc sống, còn có những chuyến du lịch khám phá, trải nghiệm ngoài thế giới thực sẽ để lại vô vàn bài học bổ ích và kỷ niệm quý báu. Đó chính là những món quà mà bạn có thể nắm giữ suốt cuộc đời dài rộng này. 
+              <h2><a href="#">“Một bức ảnh tốt nghiệp chỉ cần 3 giây để chụp, nhưng nó lại lưu giữ kỷ niệm của suốt 3 năm thời gian.”</a></h2>
+              <p>Có cuộc hội ngộ nào mà không có chia tay, có cuộc vui nào mà không có kết thúc. Sẽ chẳng còn những tiết học thanh vắng mỗi buổi trưa, còn đâu những bụi phấn vương trên tóc thầy, và còn đâu nữa những lần trốn học hẹn nhau nơi góc phượng sau trường. Tất cả chỉ còn là kỷ niệm nơi trường xưa. 
 							</p>
             </header>
           </article>
 					<!-- Post -->
 					<section class="posts">
 						{% for post in site.posts %}
-						{% assign mod4 = forloop.index | modulo: 4 %}
-						{% assign mod5 = forloop.index | modulo: 5 %}
+						{% assign mod9 = forloop.index | modulo: 9 %}
+						{% assign mod10 = forloop.index | modulo: 10 %}
 							<article>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
@@ -54,7 +54,7 @@
 									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
-							{% if mod4 == 0 %}
+							{% if mod9 == 0 %}
 							<article>
 												<header>
 													<h2>Sponsored<a target="_blank" href="https://www.facebook.com/balladcafe"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com%2Fballadcafe" alt=""/></a></h2>
@@ -64,7 +64,7 @@
 			
 											</article>
 							{% endif %}
-							{% if mod5 == 0 %}
+							{% if mod10 == 0 %}
 							<article>
 												<header>
 													<h2>Sponsored<a target="_blank" href="https://www.facebook.com/368dongda"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.facebook.com%2F368dongda" alt=""/></a></h2>
