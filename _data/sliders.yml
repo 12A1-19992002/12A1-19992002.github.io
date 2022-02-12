@@ -2,21 +2,20 @@
   bullets: false
   captions: true
   images:
-    - src: /uploads/20207/046104cd-f080-4e5c-851e-8075da3dd52b_small.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - data-src: /uploads/20207/3f59c0ed-f4af-49fd-aa03-3687b92600e1.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - data-src: /uploads/20207/74a80ca4-7b96-492d-815e-eda3fd0de035.jpg
-      data-src-2x: /uploads/20207/046104cd-f080-4e5c-851e-8075da3dd52b.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - src: /uploads/20207/a1bd6a4a-b957-47f8-a03d-20a4adf928a5.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - src: /uploads/20207/af095e22-0bcc-45ba-a1a8-4e5c063f7a69.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - src: /uploads/20207/c03f260c-92cc-47c9-b7e2-9e0ba95540a0.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
-    - src: /uploads/20207/ca619569-78e7-4cca-a958-7a69c30656f2.jpg
-      alt: The Land of Wonders 🏔 Norway 😍 Photos by_ @tomashavel [IG] with Eve Photography
+    - src: /uploads/sliders/035_1.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - data-src: /uploads/sliders/035_3.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - data-src: /uploads/sliders/036_1.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - src: /uploads/sliders/036_2.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - src: /uploads/sliders/036_3.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - src: /uploads/sliders/037_1.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
+    - src: /uploads/sliders/037_2.jpg
+      alt: 12A1 Sào Nam 😍 1999-2002
   settings:
     height: 650
     initialHeight:
