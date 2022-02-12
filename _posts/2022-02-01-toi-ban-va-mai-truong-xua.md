@@ -47,7 +47,7 @@ Giữa nhịp sống hối hả, năng động, có lúc ta quên đi ý nghĩa 
 
 Ngày chia tay chắc sẽ thật buồn nhưng tôi không muốn ngày ấy đong dầy nước mắt. Sao không cười lên với niềm hạnh phúc vì những ngày tháng qua chúng ta đã được bên nhau và hãy tin tưởng rằng lũ chúng ta sẽ mãi có nhau trong cuộc đời này…?
 
-Lời cuối cùng tôi muốn nói với tất cả các bạn rằng “Tôi ước gì còn được ở bên các bạn – bên A1 lâu hơn…mãi nhớ các bạn!” Thương chúc đại gia đình chúng ta thành công rực rỡ trong kì thi tốt nghiệp và Đại học – Cao đẳng sắp tới. Chúc các bạn luôn hạnh phúc, vui vẻ, tự tin, thành công trong cuộc sống…
+Lời cuối cùng tôi muốn nói với tất cả các bạn rằng “Tôi ước gì còn được ở bên các bạn – bên A1 lâu hơn…mãi nhớ các bạn!”. Chúc các bạn luôn hạnh phúc, vui vẻ, tự tin, thành công trong cuộc sống…
 
 <span><amp-img width="480" height="360" layout="responsive" src="{{ "/uploads/sliders/036_2.jpg" | absolute_url }}" alt="" /></span>
 <blockquote>Tôi, Bạn và Mái trường xưa!</blockquote>
